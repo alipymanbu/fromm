@@ -1,66 +1,25 @@
-# Dr. Michael Fromm
+# fromm
 
-_Research Scientist for Foundation Models based in Munich 🇩🇪_ <br>
+本仓库是「fromm」的安卓版本获取入口，附使用资料索引。
 
-[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/effi288/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
-/ [Modalities](https://github.com/Modalities/modalities)
+## 安装文件资源（夸克网盘）
 
-## Research Interests <br>
-- Multilingual Large-Language Models
-- Multimodal Foundation Models
-- Computer Vision
-- Remote Sensing
+> **fromm 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4817ad5da782](https://pan.quark.cn/s/4817ad5da782)
 
-## Work Experience <br>
-- Principal Research Scientist Foundation Models, Fraunhofer IAIS, (2023 - Present) 
-- Postdoc, LMU Munich (2022 - 2023)
-- Innovation Lab Coordinator, LMU Munich (2020 - 2023) 
-- Research Scientist, LMU Munich, (2016 - 2023) 
-- Intern Software Development, Dassault Systemes (2015 - 2016) 
+## 官方项目
 
-## Education LMU Munich <img src="images/LMU_Logo_CMYK_FlaechigGruen.png" alt="Image description" width="46" height="23"> <br>
-- PhD CS (2018 - 2022)
-- MSc CS (2016 - 2018)
-- BSc CS (2012 - 2016)
+- 上游项目：[fromm-m/fromm](https://github.com/fromm-m/fromm)
 
-## Current Foundation Model Projects <br>
-- [TrustLLM: Democratize Trustworthy and Efficient Large Language Model Technology for Europe](https://trustllm.eu)
-- [openGPT-X: Development of Large European Language Models](https://opengpt-x.de)
-- [EuroLingua-GPT: One Model for all European Languages](https://www.iais.fraunhofer.de/de/presse/presseinformationen/presseinformationen-2024/presseinformation-240516.html)
+## 更多资料
 
-## Selected Research Articles <br>
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/fromm/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [入驻艺人名单与查询方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/fromm/%E5%85%A5%E9%A9%BB%E8%89%BA%E4%BA%BA%E5%90%8D%E5%8D%95%E4%B8%8E%E6%9F%A5%E8%AF%A2%E6%96%B9%E6%B3%95.md)
+- [常见问题与解决办法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/fromm/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
+- [注册与登录教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/fromm/%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95%E6%95%99%E7%A8%8B.md)
+- [聊天功能与使用技巧](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/fromm/%E8%81%8A%E5%A4%A9%E5%8A%9F%E8%83%BD%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
+- [订阅开通与付费方式](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/fromm/%E8%AE%A2%E9%98%85%E5%BC%80%E9%80%9A%E4%B8%8E%E4%BB%98%E8%B4%B9%E6%96%B9%E5%BC%8F.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-### Computer Vision
-- [Automated detection of conifer seedlings in drone imagery using convolutional neural networks](https://www.mdpi.com/2072-4292/11/21/2585)
-- [Unsupervised anomaly detection for X-ray images](https://arxiv.org/pdf/2001.10883)
-- [XD-STOD: Cross-Domain Superresolution for Tiny Object Detection](https://ieeexplore.ieee.org/abstract/document/8955582)
+---
 
-### Natural Language Processing
-- [Argument Mining Driven Analysis of Peer-Reviews](https://ojs.aaai.org/index.php/AAAI/article/view/16607)
-- [TACAM: topic and context aware argument mining](https://dl.acm.org/doi/abs/10.1145/3350546.3352506)
-- [Diversity Aware Relevance Learning for Argument Search](https://link.springer.com/chapter/10.1007/978-3-030-72240-1_24)
-- [Active Learning for Argument Strength Estimation](https://aclanthology.org/2021.insights-1.20/)
-- [Cross-Domain Argument Quality Estimation](https://aclanthology.org/2023.findings-acl.848/)
-
-## Skills <br>
-Data Processing with e.g. Polars, Pytorch, DataTrove
-Programming in Python, Java, C++
-Building foundation models in PyTorch and our own Framework [Modalities](https://github.com/Modalities/modalities) 
-
-
-## Teaching Experiences <br>
-- [Introduction to Programming](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html)
-- [Argument Mining](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/bscseminar22/index.html)
-- [Big Data Management and Analytics](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/bigdata2122/index.html)
-- [Practical Machine Learning](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/pbds21/index.html)
-- [Seminar Machine Learning](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent19/index.html)
-- [Deep Learning and Artificial Intelligence](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep2021/index.html)
-- [Artificial Intelligence for Games](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/art21/index.html)
-- [Machine Learning with limited labeled Data](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent2223/index.html)
-- supervision of dozens of bachelor & master thesis
-
-Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de).
-
-## Former Research Projects <br>
-- [ReMLAV: Relational Machine Learning for Argument Validation(ReMLAV)](http://ratio.sc.cit-ec.uni-bielefeld.de/projects/remlav/)
-- [Munich Center for Machine Learning (MCML)](https://mcml.ai/)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/fromm-m/fromm)。
